@@ -13,6 +13,10 @@
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmkiseleva/react-diploma-back/issues"
+  },
+  "homepage": "https://github.com/kmkiseleva/react-diploma-back#readme",
   "dependencies": {
     "koa": "^2.7.0",
     "koa-body": "^4.1.0",
